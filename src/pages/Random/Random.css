@@ -1,0 +1,36 @@
+.random div {
+  display: flex;
+  justify-content: space-between;
+  color: rgba(51, 51, 51, 0.5);
+}
+
+.random {
+  padding: 2vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.random img {
+  text-align: center;
+}
+
+.random h1 {
+  font-size: 40px;
+  margin-top: 30px;
+}
+
+.random {
+  margin: 20px 0;
+  /* width: 70%; */
+}
+
+.random button {
+  padding: 0 0 0 0;
+  margin-bottom: 100px;
+}
+
+.random button img {
+  width: 50px;
+  height: 50px;
+}

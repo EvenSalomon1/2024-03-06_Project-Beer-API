@@ -1,0 +1,31 @@
+.allbeers > div {
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  border-bottom: 1px solid black;
+}
+
+.allbeers img {
+  height: 400px;
+  width: 200px;
+  margin: 0 20px;
+}
+
+h1 {
+  margin: 0 0 5px 0;
+}
+h3 {
+  margin-bottom: 40px;
+  color: #ffca41;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 1vw 3vw;
+  background-color: #ffca41;
+  border: 1px solid #ffca41;
+  border-radius: 40px;
+}
